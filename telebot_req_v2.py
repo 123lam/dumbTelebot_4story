@@ -7,7 +7,7 @@ import telebot
 import myosdisk
 import os
 
-MY_TOKEN = "1038825393:AAE4I9BQst2za0woXb9Gg9t6b25TcrcOqzo"
+MY_TOKEN = ""
 MY_URL = "https://api.telegram.org/bot{}/".format(MY_TOKEN)
 
 global bot 
